@@ -66181,7 +66181,7 @@ angular.module('mm.core')
 
 .constant('mmCoreConfigConstants', {
     "app_id" : "com.moodle.moodlemobile",
-    "appname": "SVu Moodle",
+    "appname": "SVU Moodle",
     "desktopappname": "Moodle Desktop",
     "versioncode" : "2020",
     "versionname" : "1.0",
